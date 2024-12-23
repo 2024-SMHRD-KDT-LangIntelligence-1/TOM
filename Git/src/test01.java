@@ -6,5 +6,6 @@ public class test01 {
 		System.out.println("팀원 곽세영 커밋");
 		System.out.println("팀원 정혜란 커밋");
 		System.out.println("팀원 김재민 커밋");
+		System.out.println("팀원 우지연 커밋");
 	}
 }
