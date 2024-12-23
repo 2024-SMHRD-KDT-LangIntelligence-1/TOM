@@ -8,6 +8,10 @@ public class test2 {
 		System.out.println("야호 num1 추가");
 		int num1=0;
 		
+		System.out.println("반복문 추가");
+		for(int i=0; i<=10; i++) {
+			System.out.println(i);
+		}
 
 	}
 
